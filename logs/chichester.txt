@@ -1,0 +1,7 @@
+Log file for chichester
+------------------------------
+Thursday 16 March 2017 15:33
+[[[['Court 1'], ['T20157213'], ['PERRY  GREEN'], ['For Trial of Issue', 'Hearing finished for PERRY GREEN', '14:34']], [['Court 2'], ['T20167060'], ['GEORGE  HARDING'], ['For Sentence', 'Hearing finished for GEORGE HARDING', '15:23']]]]
+
+Thursday 16 March 2017 15:33
+[[[['Court 1'], ['T20157213'], ['PERRY  GREEN'], ['For Trial of Issue', 'Hearing finished for PERRY GREEN', '14:34']], [['Court 2'], ['T20167060'], ['GEORGE  HARDING'], ['For Sentence', 'Hearing finished for GEORGE HARDING', '15:23']]]]

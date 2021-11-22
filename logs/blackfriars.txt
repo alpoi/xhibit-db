@@ -1,0 +1,7 @@
+Log file for blackfriars
+------------------------------
+Thursday 19 December 2019 14:59
+[[[['Court 4'], ['T20190290'], ['ERVIN  RADOSAVLEVICI'], ['For Sentence', 'Hearing finished for ERVIN RADOSAVLEVICI', '11:01']], [['Court 5'], ['T20197145'], ['ASHOK  PATEL', 'CLAIRE  MARLOWE', 'FRANKLIN  WYNTER', 'KAREEM  BRADSHAW-DAVIS', 'KEENAM  BRADSHAW-DAVIS', 'KENNETH  DOUGLAS'], ['For Sentence', 'Case Closed', '14:55']], [['Court 8'], ['T19990747'], ['PARFAIT ANTOINE  LUCY'], [' No Information To Display']], [['Court 9'], ['T20197104'], ['MARTIN  DELANEY'], ['For Application for Bail', 'Hearing finished for MARTIN DELANEY', '11:11']]], []]
+
+Thursday 19 December 2019 14:59
+[[[['Court 4'], ['T20190290'], ['ERVIN  RADOSAVLEVICI'], ['For Sentence', 'Hearing finished for ERVIN RADOSAVLEVICI', '11:01']], [['Court 5'], ['T20197145'], ['ASHOK  PATEL', 'CLAIRE  MARLOWE', 'FRANKLIN  WYNTER', 'KAREEM  BRADSHAW-DAVIS', 'KEENAM  BRADSHAW-DAVIS', 'KENNETH  DOUGLAS'], ['For Sentence', 'Case Closed', '14:55']], [['Court 8'], ['T19990747'], ['PARFAIT ANTOINE  LUCY'], [' No Information To Display']], [['Court 9'], ['T20197104'], ['MARTIN  DELANEY'], ['For Application for Bail', 'Hearing finished for MARTIN DELANEY', '11:11']]], []]
